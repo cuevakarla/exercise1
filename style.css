@@ -1,11 +1,11 @@
-body{
+body {
     background-color: azure;
 }
-p{
-    color: blue;
+
+p {
+    color: #ff0089;
 }
 
-h1{
+h1 {
     color: white;
-    text-shadow: 1,1;
 }
